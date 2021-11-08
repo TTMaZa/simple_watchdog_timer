@@ -111,4 +111,4 @@ This example will print:
 License
 -------
 
-TimedDict is released under the MIT License. See LICENSE for more information.
+simple_watchdog_timer is released under the MIT License. See LICENSE for more information.
